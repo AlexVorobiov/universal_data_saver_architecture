@@ -1,4 +1,4 @@
-![arch](../master/img/SyncStructureVisual.png)
+![arch](https://raw.githubusercontent.com/AlexVorobiov/universal_data_saver_architecture/main/img/SyncStructureVisual.png)
 
 # Here are some of the key advantages:
 
